@@ -1,0 +1,90 @@
+.body{
+    font-family: "Kumbh Sans", monospace;
+}
+/*Narbar-Title*/
+.head{
+    padding: 0% 1%;
+    background-color: white;
+}
+.logo{
+    justify-content: start;
+}
+.navbar-brand{
+    padding: 50px;
+}
+.nav-item{
+    padding: 0 30px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+.nav-link:hover{
+    background-color: #EDA836;
+}
+.menu{
+    justify-content: center;
+}
+.btn-outline-warning.no-border {
+    border-color: transparent;
+}
+.btn-outline-dark.no-border {
+    border-color: transparent;
+}
+.nav-items{
+    padding: 0 20px;
+}
+
+.image-banner{
+    position: relative;
+}
+.image-promotion{
+    position: absolute;
+    top: 40px;
+    right: 60px;
+}
+.nav-items.shop{
+    padding: 0 15px;
+}
+.pago{
+    margin: 0px 0px 20px 0px;
+}
+@media (max-width: 990px) {
+    .logo{
+        justify-content: center;
+    }
+        
+}
+
+/*Products*/
+.products{
+    padding: 5% 1%;
+}
+.card-title{
+    font-size: 20px;
+}
+.card-sub{
+    font-size: 11px;
+}
+.row.row-cols-4{
+    padding: 0px 40px 0px 40px;
+}
+.card.col-lg-3.col-md-6{
+    padding: 3% 2% 3% 2%;
+    border-color: transparent;
+}
+.checked{
+    color: orange;
+}
+.valoration{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.footer-card{
+    background-color: #F9F9F9;
+}
+.social{
+    padding: 10px;
+}
+#name{
+    width: 95%;
+}
